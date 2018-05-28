@@ -11,7 +11,7 @@ Update Slack status based on your location (using Wi-Fi SSID).
 
 ### Linux?
 
-I'm waiting your [PR](https://github.com/kuy/slack-loc/pulls) :)
+I'm waiting your [PR](https://github.com/dmalorny/slack-loc/pulls) :)
 
 
 ## Installation
@@ -69,7 +69,7 @@ Disable the job, append below lines, and re-enable it.
 <string>/Users/<< USERNAME >>/stderr.txt</string>
 ```
 
-Please post error message to [GitHub issue](https://github.com/kuy/slack-loc/issues).
+Please post error message to [GitHub issue](https://github.com/dmalorny/slack-loc/issues).
 
 
 ## License
@@ -80,3 +80,4 @@ MIT
 ## Author
 
 Yuki Kodama / [@kuy](https://twitter.com/kuy)
+Dirk Malorny
